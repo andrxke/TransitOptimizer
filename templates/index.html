@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transit Time Optimizer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Transit Optimizer</h1>
+            <p>Optimize your commute.</p>
+            <div id="mode-instructions" class="instructions">
+                <p><strong>Steps:</strong></p>
+                <div id="steps-text">
+                    <p>1. Enter your origin and destination</p>
+                    <p>2. Enter your departure time window</p>
+                    <p>3. Click "Find Best Time"</p>
+                </div>
+            </div>
+            <p class="api-note"><small>Note: Google Maps API Key required (Directions, Distance Matrix, Routes APIs
+                    enabled).</small></p>
+        </header>
+
+        <section class="api-key-section">
+            <label for="api-key">Google Maps API Key</label>
+            <input type="password" id="api-key" placeholder="Enter your API Key">
+            <p class="hint">Stored locally in your browser.</p>
+        </section>
+
+        <nav class="tabs">
+            <button class="tab-btn active" data-tab="optimize-trip">Best Departure</button>
+            <button class="tab-btn" data-tab="optimize-work">Work Schedule</button>
+        </nav>
+
+        <main>
+            <!-- Tab 1: Optimize Trip Window -->
+            <div id="optimize-trip" class="tab-content active">
+                <form id="form-optimize-trip">
+                    <div class="form-group">
+                        <label>Origin</label>
+                        <input type="text" name="origin" required placeholder="e.g. 123 Main St, New York, NY">
+                    </div>
+                    <div class="form-group">
+                        <label>Destination</label>
+                        <input type="text" name="destination" required placeholder="e.g. Times Square">
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Window Start</label>
+                            <div class="date-time-group">
+                                <input type="date" name="window_start_date" required>
+                                <input type="time" name="window_start_time" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>Window End</label>
+                            <div class="date-time-group">
+                                <input type="date" name="window_end_date" required>
+                                <input type="time" name="window_end_time" required>
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="primary-btn">Find Best Time</button>
+                </form>
+            </div>
+
+
+            <!-- Tab 3: Optimize Work Schedule -->
+            <div id="optimize-work" class="tab-content">
+                <form id="form-optimize-work">
+                    <div class="form-group">
+                        <label>Home Address(es) (one per line)</label>
+                        <textarea name="origins" placeholder="Enter multiple starting locations..." rows="3"
+                            required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Workplace (Destination)</label>
+                        <input type="text" name="destination" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Work Duration (Hours)</label>
+                        <input type="number" name="work_duration_hours" step="0.5" required value="8">
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Departure Window Start</label>
+                            <div class="date-time-group">
+                                <input type="date" name="window_start_date" required>
+                                <input type="time" name="window_start_time" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>Departure Window End</label>
+                            <div class="date-time-group">
+                                <input type="date" name="window_end_date" required>
+                                <input type="time" name="window_end_time" required>
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="primary-btn">Find Best Schedule</button>
+                </form>
+            </div>
+
+            <!-- Results Section -->
+            <div id="results-area" class="results-container hidden">
+                <h3>Results</h3>
+                <div id="results-content"></div>
+            </div>
+        </main>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+
+</html>

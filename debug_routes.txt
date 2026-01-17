@@ -1,0 +1,509 @@
+
+--- Starting Optimization: Window 2026-01-19 07:30:00 to 2026-01-19 09:30:00 ---
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:30:00
+  Found route: 1 hour 36 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:45:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:00:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:15:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:30:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:45:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:00:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:15:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:30:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+--- Optimization Complete. Best Time: 2026-01-19 08:00:00. Min Duration: 5678s ---
+
+
+--- Starting Optimization: Window 2026-01-19 07:30:00 to 2026-01-19 09:30:00 ---
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:30:00
+  Found route: 1 hour 36 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:45:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:00:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:15:00
+  Found route: 1 hour 36 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:30:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:45:00
+  Found route: 1 hour 31 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:00:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:15:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:30:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk)
+--- Optimization Complete. Best Time: 2026-01-19 09:30:00. Min Duration: 5370s ---
+
+
+--- Starting Optimization: Window 2026-01-19 07:30:00 to 2026-01-19 21:30:00 ---
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:30:00
+  Found route: 1 hour 36 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 7:31 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:45:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 7:49 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:00:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:15:00
+  Found route: 1 hour 36 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:16 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:30:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:34 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:45:00
+  Found route: 1 hour 31 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:52 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:00:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:08 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:15:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:24 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:30:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:40 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:45:00
+  Found route: 1 hour 29 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:56 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:00:00
+  Found route: 1 hour 29 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 10:12 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:15:00
+  Found route: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 10:28 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:30:00
+  Found route: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 10:44 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:45:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:00:00
+  Found route: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:00 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:15:00
+  Found route: 1 hour 31 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:16 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:30:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:32 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:45:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:00:00
+  Found route: 1 hour 29 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:04 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:15:00
+  Found route: 1 hour 29 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:20 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:30:00
+  Found route: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:36 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:45:00
+  Found route: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:52 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:00:00
+  Found route: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 1:08 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:15:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:30:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 1:40 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:45:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 1:56 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:00:00
+  Found route: 1 hour 29 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 2:12 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:15:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:30:00
+  Found route: 1 hour 32 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 2:44 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:45:00
+  Found route: 1 hour 24 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Subway 1 -> Walk) - Departs: 2:48 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:00:00
+  Found route: 1 hour 33 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 3:07 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:15:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 3:17 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:30:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 3:37 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:45:00
+  Found route: 1 hour 37 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 3:47 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:00:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:15:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 4:17 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:30:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 4:37 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:45:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 4:47 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:00:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:15:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 5:17 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:30:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 5:37 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:45:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 5:47 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:00:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 6:07 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:15:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 6:17 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:30:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:45:00
+  Found route: 1 hour 32 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 6:46 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 19:00:00
+  Found route: 1 hour 29 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 7:12 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 19:15:00
+  Found route: 1 hour 26 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 7:26 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 19:30:00
+  Found route: 1 hour 25 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 7:40 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 19:45:00
+  Found route: 1 hour 25 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 7:54 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 20:00:00
+  Found route: 1 hour 25 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:08 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 20:15:00
+  Found route: 1 hour 25 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:22 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 20:30:00
+  Found route: 1 hour 25 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:36 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 20:45:00
+  Found route: 1 hour 24 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:50 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 21:00:00
+  Error fetching directions: REQUEST_DENIED (This API key is not authorized to use this service or API. Please check the API restrictions settings of your API key in the Google Cloud Console to ensure that all of the APIs and services you need to use are correctly specified in the list of enabled APIs. For more information, see https://developers.google.com/maps/api-key-best-practices.)
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 21:15:00
+  Found route: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:18 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 21:30:00
+  Found route: 1 hour 23 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:32 PM
+--- Optimization Complete. Best Time: 2026-01-19 21:30:00. Min Duration: 4958s ---
+
+
+--- Starting Optimization: Window 2026-01-19 07:30:00 to 2026-01-19 09:30:00 ---
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:30:00
+  Found route: 1 hour 36 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 7:31 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:45:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 7:49 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:00:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:07 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:15:00
+  Found route: 1 hour 36 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:16 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:30:00
+  Found route: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:34 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:45:00
+  Found route: 1 hour 31 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 8:52 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:00:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:08 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:15:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:24 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:30:00
+  Found route: 1 hour 30 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 9:40 AM
+--- Optimization Complete. Best Time: 2026-01-19 09:30:00. Min Duration: 5370s ---
+
+
+--- Starting Optimization: Window 2026-01-19 07:30:00 to 2026-01-19 09:30:00 ---
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:30:00
+  Found best route among 6 options: 1 hour 33 mins (Walk -> Bus 130B -> Walk -> Bus 953 -> Walk -> Subway 1 -> Walk) - Departs: 7:54 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:45:00
+  Found best route among 6 options: 1 hour 33 mins (Walk -> Bus 130B -> Walk -> Bus 953 -> Walk -> Subway 1 -> Walk) - Departs: 7:54 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:00:00
+  Found best route among 5 options: 1 hour 26 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 8:36 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:15:00
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 8:36 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:30:00
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 8:36 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:45:00
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 9:23 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:00:00
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 9:23 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:15:00
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 9:23 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:30:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 10:28 AM
+--- Optimization Complete. Best Time: 2026-01-19 08:00:00. Min Duration: 5166s ---
+
+
+--- Optimizing Work Schedule: Window 2026-01-19 07:30:00 to 2026-01-17 19:00:00 ---
+
+--- Optimizing Work Schedule: Window 2026-01-19 07:30:00 to 2026-01-17 19:00:00 ---
+
+--- Optimizing Work Schedule: Window 2026-01-19 07:30:00 to 2026-01-19 19:00:00 ---
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:30:00
+  Found best route among 6 options: 1 hour 33 mins (Walk -> Bus 130B -> Walk -> Bus 953 -> Walk -> Subway 1 -> Walk) - Departs: 7:54 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 16:32:30
+  Found best route among 6 options: 1 hour 33 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 4:39 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:00:00
+  Found best route among 5 options: 1 hour 26 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 8:36 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 16:56:06
+  Found best route among 6 options: 1 hour 33 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 4:59 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:30:00
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 8:36 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 17:26:06
+  Found best route among 6 options: 1 hour 24 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 6:19 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:00:00
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 9:23 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 17:59:05
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 6:57 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:30:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 10:28 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 18:28:06
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 6:57 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:00:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:00 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 18:57:10
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 7:40 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:30:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:00 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 19:27:10
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 7:40 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:00:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:00 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 19:57:10
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 8:07 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:30:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:36 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 20:28:15
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 8:35 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:00:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:52 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 20:57:47
+  Found best route among 6 options: 1 hour 20 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 10:01 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:30:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:36 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 21:28:15
+  Found best route among 6 options: 1 hour 20 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 10:01 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:00:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 1:08 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 21:57:19
+  Found best route among 6 options: 1 hour 20 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 10:01 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:30:00
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 1:33 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 22:29:05
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 19 -> Walk -> Train ST -> Walk -> Bus 43A -> Walk -> Bus 42A -> Walk) - Departs: 10:40 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:00:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 130A -> Walk -> Bus 903A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 2:23 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 22:57:05
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Bus 97C -> Walk -> Subway 2 -> Walk -> Bus 131 -> Bus 130A -> Walk) - Departs: 11:19 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:30:00
+  Found best route among 6 options: 1 hour 24 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Subway 1 -> Walk) - Departs: 2:48 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 23:24:17
+  Found best route among 6 options: 1 hour 30 mins (Walk -> Bus 19 -> Walk -> Train ST -> Walk -> Bus 129B -> Walk) - Departs: 11:39 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:00:00
+  Found best route among 5 options: 1 hour 32 mins (Walk -> Bus 129 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 3:24 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 00:02:29
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 97C -> Walk -> Subway 2 -> Walk -> Bus 939A -> Bus 130A -> Walk) - Departs: 12:09 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:30:00
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 3:37 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 00:34:43
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Subway 1 -> Walk -> Subway 2 -> Walk -> Bus 129B -> Walk) - Departs: 12:46 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:00:00
+  Found best route among 5 options: 1 hour 34 mins (Walk -> Bus 129 -> Walk -> Subway 2 -> Walk -> Bus 97C -> Walk) - Departs: 4:20 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 01:04:25
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Subway 1 -> Walk -> Subway 2 -> Walk -> Bus 129B -> Walk) - Departs: 1:16 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:30:00
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 4:37 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 01:34:43
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 2:04 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:00:00
+  Found best route among 6 options: 1 hour 31 mins (Walk -> Bus 130B -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 97C -> Walk) - Departs: 5:23 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 02:01:17
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 2:04 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:30:00
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 5:37 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 02:34:43
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 2:44 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:00:00
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 130B -> Bus 939B -> Walk -> Subway 2 -> Walk -> Subway 1 -> Walk) - Departs: 6:08 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 02:56:16
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 3:04 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:30:00
+  Found best route among 6 options: 1 hour 24 mins (Walk -> Bus 130B -> Bus 131 -> Walk -> Subway 2 -> Walk -> Subway 1 -> Walk) - Departs: 6:30 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 03:24:16
+  Found best route among 6 options: 1 hour 45 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 3:34 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 19:00:00
+  Found best route among 4 options: 1 hour 27 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 7:15 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 03:57:20
+  Found best route among 6 options: 1 hour 39 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk -> Bus 130B -> Walk) - Departs: 4:19 AM
+
+--- Optimizing Work Schedule for 2 origins: Window 2026-01-19 07:30:00 to 2026-01-19 19:00:00 ---
+Checking schedules for origin: 132 valley stream dr
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:30:00
+  Found best route among 6 options: 1 hour 33 mins (Walk -> Bus 130B -> Walk -> Bus 953 -> Walk -> Subway 1 -> Walk) - Departs: 7:54 AM, Arrives: 9:27 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 16:32:30
+  Found best route among 6 options: 1 hour 33 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 4:39 PM, Arrives: 6:13 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:00:00
+  Found best route among 5 options: 1 hour 26 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 8:36 AM, Arrives: 10:02 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 16:56:06
+  Found best route among 6 options: 1 hour 33 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 4:59 PM, Arrives: 6:33 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:30:00
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 8:36 AM, Arrives: 10:02 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 17:26:06
+  Found best route among 6 options: 1 hour 24 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 6:19 PM, Arrives: 7:44 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:00:00
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 9:23 AM, Arrives: 10:52 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 17:59:05
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 6:57 PM, Arrives: 8:19 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:30:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 10:28 AM, Arrives: 11:56 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 18:28:06
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 6:57 PM, Arrives: 8:19 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:00:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:00 AM, Arrives: 12:27 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 18:57:10
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 7:40 PM, Arrives: 9:01 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:30:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:00 AM, Arrives: 12:27 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 19:27:10
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 7:40 PM, Arrives: 9:01 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:00:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 11:00 AM, Arrives: 12:27 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 19:57:10
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 8:07 PM, Arrives: 9:29 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:30:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:36 PM, Arrives: 2:05 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 20:28:15
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 8:35 PM, Arrives: 9:57 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:00:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:52 PM, Arrives: 2:20 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 20:57:47
+  Found best route among 6 options: 1 hour 20 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 10:01 PM, Arrives: 11:22 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:30:00
+  Found best route among 6 options: 1 hour 28 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 12:36 PM, Arrives: 2:05 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 21:28:15
+  Found best route among 6 options: 1 hour 20 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 10:01 PM, Arrives: 11:22 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:00:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 1:08 PM, Arrives: 2:36 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 21:57:19
+  Found best route among 6 options: 1 hour 20 mins (Walk -> Subway 1 -> Walk -> Bus 42A -> Walk) - Departs: 10:01 PM, Arrives: 11:22 PM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:30:00
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Bus 130A -> Bus 939A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 1:33 PM, Arrives: 3:02 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 22:29:05
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 19 -> Walk -> Train ST -> Walk -> Bus 43A -> Walk -> Bus 42A -> Walk) - Departs: 10:40 PM, Arrives: 12:06 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:00:00
+  Found best route among 6 options: 1 hour 27 mins (Walk -> Bus 130A -> Walk -> Bus 903A -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 2:23 PM, Arrives: 3:50 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 22:57:05
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Bus 97C -> Walk -> Subway 2 -> Walk -> Bus 131 -> Bus 130A -> Walk) - Departs: 11:19 PM, Arrives: 12:42 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:30:00
+  Found best route among 6 options: 1 hour 24 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Subway 1 -> Walk) - Departs: 2:48 PM, Arrives: 4:13 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-19 23:24:17
+  Found best route among 6 options: 1 hour 30 mins (Walk -> Bus 19 -> Walk -> Train ST -> Walk -> Bus 129B -> Walk) - Departs: 11:39 PM, Arrives: 1:09 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:00:00
+  Found best route among 5 options: 1 hour 32 mins (Walk -> Bus 129 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 3:24 PM, Arrives: 4:56 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 00:02:29
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 97C -> Walk -> Subway 2 -> Walk -> Bus 939A -> Bus 130A -> Walk) - Departs: 12:09 AM, Arrives: 1:36 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:30:00
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 3:37 PM, Arrives: 5:12 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 00:34:43
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Subway 1 -> Walk -> Subway 2 -> Walk -> Bus 129B -> Walk) - Departs: 12:46 AM, Arrives: 2:15 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:00:00
+  Found best route among 5 options: 1 hour 34 mins (Walk -> Bus 129 -> Walk -> Subway 2 -> Walk -> Bus 97C -> Walk) - Departs: 4:20 PM, Arrives: 5:54 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 01:04:25
+  Found best route among 6 options: 1 hour 29 mins (Walk -> Subway 1 -> Walk -> Subway 2 -> Walk -> Bus 129B -> Walk) - Departs: 1:16 AM, Arrives: 2:45 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:30:00
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 4:37 PM, Arrives: 6:12 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 01:34:43
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 2:04 AM, Arrives: 3:39 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:00:00
+  Found best route among 6 options: 1 hour 31 mins (Walk -> Bus 130B -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 97C -> Walk) - Departs: 5:23 PM, Arrives: 6:54 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 02:01:17
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 2:04 AM, Arrives: 3:39 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:30:00
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 42 -> Walk -> Subway 1 -> Walk) - Departs: 5:37 PM, Arrives: 7:12 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 02:34:43
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 2:44 AM, Arrives: 4:19 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:00:00
+  Found best route among 6 options: 1 hour 26 mins (Walk -> Bus 130B -> Bus 939B -> Walk -> Subway 2 -> Walk -> Subway 1 -> Walk) - Departs: 6:08 PM, Arrives: 7:34 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 02:56:16
+  Found best route among 6 options: 1 hour 35 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 3:04 AM, Arrives: 4:39 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:30:00
+  Found best route among 6 options: 1 hour 24 mins (Walk -> Bus 130B -> Bus 131 -> Walk -> Subway 2 -> Walk -> Subway 1 -> Walk) - Departs: 6:30 PM, Arrives: 7:54 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 03:24:16
+  Found best route among 6 options: 1 hour 45 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk) - Departs: 3:34 AM, Arrives: 5:19 AM
+Checking trip: 132 valley stream dr -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 19:00:00
+  Found best route among 4 options: 1 hour 27 mins (Walk -> Bus 130A -> Bus 131 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 7:15 PM, Arrives: 8:43 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> 132 valley stream dr at 2026-01-20 03:57:20
+  Found best route among 6 options: 1 hour 39 mins (Walk -> Bus 320A -> Walk -> Bus 339 -> Walk -> Bus 130B -> Walk) - Departs: 4:19 AM, Arrives: 5:58 AM
+Checking schedules for origin: Milliken GO
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 07:30:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 7:45 AM, Arrives: 8:40 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 15:55:11
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 5:14 PM, Arrives: 6:06 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:00:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 8:05 AM, Arrives: 9:00 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 16:25:11
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 5:14 PM, Arrives: 6:06 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 08:30:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 8:45 AM, Arrives: 9:40 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 16:55:11
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 5:14 PM, Arrives: 6:06 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:00:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 9:45 AM, Arrives: 10:40 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 17:25:06
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 5:56 PM, Arrives: 6:49 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 09:30:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 9:45 AM, Arrives: 10:40 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 17:55:06
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 5:56 PM, Arrives: 6:49 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:00:00
+  Found best route among 6 options: 56 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 10:45 AM, Arrives: 11:40 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 18:25:48
+  Found best route among 5 options: 51 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 8:42 PM, Arrives: 9:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 10:30:00
+  Found best route among 6 options: 56 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 10:45 AM, Arrives: 11:40 AM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 18:55:48
+  Found best route among 6 options: 51 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 8:42 PM, Arrives: 9:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:00:00
+  Found best route among 6 options: 58 mins (Train ST -> Walk -> Bus 19 -> Walk) - Departs: 11:45 AM, Arrives: 12:42 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 19:27:44
+  Found best route among 6 options: 51 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 8:42 PM, Arrives: 9:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 11:30:00
+  Found best route among 6 options: 58 mins (Train ST -> Walk -> Bus 19 -> Walk) - Departs: 11:45 AM, Arrives: 12:42 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 19:57:44
+  Found best route among 6 options: 51 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 8:42 PM, Arrives: 9:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:00:00
+  Found best route among 6 options: 54 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 12:45 PM, Arrives: 1:38 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 20:23:44
+  Found best route among 6 options: 51 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 8:42 PM, Arrives: 9:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 12:30:00
+  Found best route among 6 options: 54 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 12:45 PM, Arrives: 1:38 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 20:53:44
+  Found best route among 5 options: 52 mins (Walk -> Bus 19 -> Walk -> Train ST) - Departs: 9:41 PM, Arrives: 10:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:00:00
+  Found best route among 6 options: 54 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 1:45 PM, Arrives: 2:39 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 21:24:26
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 10:42 PM, Arrives: 11:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 13:30:00
+  Found best route among 6 options: 54 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 1:45 PM, Arrives: 2:39 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 21:54:26
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 10:42 PM, Arrives: 11:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:00:00
+  Found best route among 6 options: 54 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 2:45 PM, Arrives: 3:39 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 22:24:07
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 10:42 PM, Arrives: 11:34 PM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 14:30:00
+  Found best route among 6 options: 54 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 2:45 PM, Arrives: 3:39 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 22:54:07
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 11:42 PM, Arrives: 12:34 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:00:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 3:45 PM, Arrives: 4:40 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 23:25:10
+  Found best route among 6 options: 52 mins (Walk -> Subway 1 -> Walk -> Train ST) - Departs: 11:42 PM, Arrives: 12:34 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 15:30:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 3:45 PM, Arrives: 4:40 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-19 23:55:10
+  Found best route among 6 options: 1 hour 23 mins (Walk -> Subway 1 -> Walk -> Subway 2 -> Walk -> Bus 43A -> Walk) - Departs: 12:01 AM, Arrives: 1:24 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:00:00
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Bus 953 -> Walk -> Subway 1 -> Walk) - Departs: 4:26 PM, Arrives: 5:47 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-20 00:50:34
+  Found best route among 6 options: 1 hour 11 mins (Walk -> Bus 320A -> Walk -> Bus 353 -> Walk) - Departs: 1:52 AM, Arrives: 3:03 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 16:30:00
+  Found best route among 6 options: 1 hour 22 mins (Walk -> Bus 953 -> Walk -> Subway 1 -> Walk) - Departs: 4:40 PM, Arrives: 6:02 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-20 01:21:34
+  Found best route among 6 options: 1 hour 11 mins (Walk -> Bus 320A -> Walk -> Bus 353 -> Walk) - Departs: 1:52 AM, Arrives: 3:03 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:00:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 5:45 PM, Arrives: 6:40 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-20 01:25:10
+  Found best route among 6 options: 1 hour 11 mins (Walk -> Bus 320A -> Walk -> Bus 353 -> Walk) - Departs: 1:52 AM, Arrives: 3:03 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 17:30:00
+  Found best route among 6 options: 55 mins (Train ST -> Walk -> Subway 1 -> Walk) - Departs: 5:45 PM, Arrives: 6:40 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-20 01:55:10
+  Found best route among 6 options: 1 hour 14 mins (Walk -> Bus 320A -> Walk -> Bus 353 -> Walk) - Departs: 2:19 AM, Arrives: 3:33 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:00:00
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Bus 57 -> Walk -> Subway 2 -> Walk -> Bus 19 -> Walk) - Departs: 6:28 PM, Arrives: 7:49 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-20 02:50:32
+  Found best route among 6 options: 1 hour 14 mins (Walk -> Bus 320A -> Walk -> Bus 353 -> Walk) - Departs: 3:19 AM, Arrives: 4:33 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 18:30:00
+  Found best route among 6 options: 1 hour 21 mins (Walk -> Bus 953 -> Walk -> Subway 1 -> Walk) - Departs: 6:31 PM, Arrives: 7:52 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-20 03:20:34
+  Found best route among 6 options: 1 hour 14 mins (Walk -> Bus 320A -> Walk -> Bus 353 -> Walk) - Departs: 3:49 AM, Arrives: 5:03 AM
+Checking trip: Milliken GO -> 686 Bay St., Toronto, ON M5G 0A4 at 2026-01-19 19:00:00
+  Found best route among 6 options: 58 mins (Train ST -> Walk -> Bus 19 -> Walk) - Departs: 7:45 PM, Arrives: 8:43 PM
+Checking trip: 686 Bay St., Toronto, ON M5G 0A4 -> Milliken GO at 2026-01-20 03:28:06
+  Found best route among 6 options: 1 hour 14 mins (Walk -> Bus 320A -> Walk -> Bus 353 -> Walk) - Departs: 3:49 AM, Arrives: 5:03 AM
+
+--- Optimizing Work Schedule for 1 origins: Window 2026-01-17 18:54:00 to 2026-01-17 18:54:00 ---
+Checking schedules for origin: pdf
+Checking trip: pdf -> asdf at 2026-01-17 18:54:00
+  Error fetching directions: NOT_FOUND
