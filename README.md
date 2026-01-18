@@ -13,6 +13,7 @@ A web application designed to help users optimize their transit times. This tool
 
 - Python 3.8+
 - `pip` (Python package installer)
+- A Google Maps API key with Directions, Distance Matrix, Routes APIs enabled
 
 ## Installation
 
@@ -54,6 +55,3 @@ A web application designed to help users optimize their transit times. This tool
 - `requirements.txt`: Python package dependencies.
 - `start.sh`: Shell script to launch the application.
 
-## License
-
-[License Name]
